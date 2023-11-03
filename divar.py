@@ -57,5 +57,4 @@ def get_ads():
 
 
 if __name__ == '__main__':
-    collection.delete_many({})
     get_ads()
